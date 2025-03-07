@@ -1,1 +1,1 @@
-https://vercel.com/paidipalli-dharanis-projects/recipe
+https://recipe-mu-two.vercel.app/
